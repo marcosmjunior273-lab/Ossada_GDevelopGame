@@ -21,7 +21,7 @@ Jogo 2d, top-down, com a ideia de ser um dungeon adventure, onde o jogador contr
 
 ---
 
-## 📁 Como abrir o projeto no GDevelop (Para Desenvolvedores)
+## Como abrir o projeto no GDevelop (Para Desenvolvedores)
 Se você quiser visualizar a lógica de eventos e os assets originais deste projeto:
 1. Baixe os arquivos deste repositório do GitHub.
 2. Abra o GDevelop 5 na sua máquina.
