@@ -8,7 +8,7 @@ Jogo de aventura em dungeons desenvolvido como projeto acadêmico na **AEDB** ut
 
 Como o jogo possui assets e trilha sonora de alta qualidade, o arquivo executável final excedeu o limite de tamanho do GitHub (100MB). Você pode baixá-lo com total segurança através do link do Google Drive abaixo:
 
-👉 **(https://drive.google.com/drive/folders/1RlMcPlp52t9Us7Gh-CCDIDdCOUGKHGZV?usp=sharing)**
+👉 **(https://drive.google.com/file/d/14OQY4VPZODpEGwDcPH-stxQmGc3VW0Ta/view?usp=sharing)**
 
 ### Passo a passo:
 1. Acesse o link acima e faça o download do arquivo `.exe`.
